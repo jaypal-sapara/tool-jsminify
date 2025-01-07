@@ -9,6 +9,6 @@ time using 'js minify'.
 * Tailwind CSS
 
 ## Check out tool
-Try it [JavaScript Minify Tool](https://jaypalsapara.in/project/js-minify).
+Try it [JavaScript Minify Tool](https://jaypalsapara.in/tool-jsminify/).
 
 ![Thumbnail](/images/Thumb.webp "JavaScript Minify Tool")
